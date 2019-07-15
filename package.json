@@ -1,0 +1,15 @@
+{
+  "name": "funnamegenerator",
+  "version": "1.0.0",
+  "description": "Generates fun names",
+  "main": "funname.js",
+  "scripts": {
+    "install": "./install.sh"
+  },
+  "author": "au5ton",
+  "license": "ISC",
+  "dependencies": {
+    "p-event": "^4.1.0",
+    "seedrandom": "^3.0.1"
+  }
+}

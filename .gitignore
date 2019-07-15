@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# wordnetcode.princeton.edu
+dict/
+wn3.1.dict.tar.gz
